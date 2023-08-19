@@ -1,3 +1,7 @@
+Visit the site please
+https://harshitsharma1250.github.io/Gold-website/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
